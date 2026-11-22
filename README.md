@@ -10,7 +10,7 @@ Choix des webcams par massif et station, par thème (ski, lacs, plages…) ou pa
 
 1. Sur la TV, ouvrir le **Google Play Store**, chercher **Downloader** (icône orange, par AFTVnews) et l'installer.
 2. Ouvrir **Downloader**. Dans la barre d'adresse, taper le code **`CODE_DOWNLOADER`** puis **Go**.
-   *(ou l'adresse complète : `https://github.com/ebarraud/manu-tv-dist/releases/download/skaping-tv/skaping-tv.apk`)*
+   *(ou l'adresse complète : `https://raw.githubusercontent.com/ebarraud/manu-tv-dist/main/skaping-tv/skaping-tv.apk`)*
 3. Le fichier se télécharge. Choisir **Installer**.
    Si la TV refuse : elle propose d'ouvrir les **Paramètres** → autoriser **Downloader** à installer des applis → revenir → **Installer**.
 4. Choisir **Ouvrir**. L'appli se trouve ensuite dans **Applications** sur l'écran d'accueil (« Webcams Skaping »).
